@@ -17,13 +17,13 @@ Thereby we can manage time and paper waste can be avoided. And making the studen
 ## Team Id
 Team id here
 ## Link to product walkthrough
-[link to video]
+https://drive.google.com/file/d/1smdBlOt-t_VV5JWPZORPxgahDtsakDoI/view?usp=drivesdk
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Providing a modern way of ticket implementing structure.
+2. gps tracker calculate the distance and deduces the fare travelled.
 ## Libraries used
-Library Name - Version
+MFRC522 (audrino rfid library)
 ## How to configure
-Instructions for setting up project
+A RFID id card is config by the college admin and 
 ## How to Run
-Instructions for running
+Students with RFID card can access the college bus easily
